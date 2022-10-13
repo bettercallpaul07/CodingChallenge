@@ -1,0 +1,54 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container {
+  width: 1100px;
+  height: 900px;
+  margin: 25px 500px 50px 500px;
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 50px;
+  color: white;
+}
+
+nav {
+  background-color: limegreen;
+  padding: 15px;
+  text-align: center;
+}
+
+.logo-text {
+color: limegreen;
+text-align: center;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.caricamedia {
+  width:400px;
+	height:30px;
+	background:orange;
+  border-radius: 5px;
+}
+
+.caricaalta{
+  width:600px;
+	height:30px;
+	background:limegreen;
+  border-radius: 5px;
+}
+
+.caricabassa{
+  width:150px;
+	height:30px;
+	background:red;
+  border-radius: 5px;
+}
